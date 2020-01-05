@@ -1,2 +1,2 @@
-# CDAC
-Work done during my Internship at Center for Development of Advance Computing, Pune from 2nd December 2019 to 5th January 2020.
+# C-DAC
+Assignment and coding problems provided by C-DAC on winter internship 2019-20.
